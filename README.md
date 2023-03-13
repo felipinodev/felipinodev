@@ -14,8 +14,8 @@
 ### My Stats
 
 <a href="https://github.com/felipinodev">
-	<img height="180em" width="40vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinodev&layout=compact&theme=dark">
-	<img height="180em" width="40vw" src="https://github-readme-stats.vercel.app/api/?username=felipinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>	
+	<img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinodev&layout=compact&theme=dark">
+	<img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/?username=felipinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>	
 </a>
 
 
