@@ -14,7 +14,7 @@
 ### My Stats
 
 <a href="https://github.com/felipinodev">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinodev&layout=compact&langs_count=7&theme=dark">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinodev&layout=compact&langs_count=1&theme=dark">
 	
 	
 <!-- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinodev&layout=compact&langs_count=7&theme=dark"/> -->
