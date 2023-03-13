@@ -18,5 +18,16 @@
 	<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/?username=felipinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>	
 </a>
 
+### Contacts
+
+<div>
+	<a href="https://www.instagram.com/elfelipino_/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">		
+	</a>
+	<a href="https://www.linkedin.com/in/elfelipino/">
+		<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">		
+	</a>
+</div>
+
 
 
