@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**felipinodev/felipinodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on "K2 Troféus e Medalhas" | Specialist in Modeling 3D
+- 🌱 I’m currently learning React
+- 💬 Ask me about JavaScript
 
-Here are some ideas to get you started:
+### Best technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+ 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>    
+</div>
+
+### My Stats
+
+<a href="https://github.com/felipinodev">
+	<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinodev&layout=compact&theme=dark">
+	<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/?username=felipinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>	
+</a>
+
